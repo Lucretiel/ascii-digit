@@ -1,0 +1,15 @@
+[package]
+name = "ascii-digit"
+version = "1.0.0"
+edition = "2024"
+
+authors = ["Nathan West <Lucretiel@gmail.com>"]
+readme = "./README.md"
+license = "MPL-2.0"
+description = "A str-compatible AsciiDigit type, intended as a parsing aid"
+repository = "https://github.com/Lucretiel/globalize"
+
+rust-version = "1.87"
+categories = ["no-std::no-alloc", "rust-patterns"]
+
+[dependencies]
