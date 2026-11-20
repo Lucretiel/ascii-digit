@@ -1,4 +1,10 @@
 # ascii-digit
+
+[![CI](https://github.com/Lucretiel/ascii-digit/actions/workflows/ci.yml/badge.svg)](https://github.com/Lucretiel/ascii-digit/actions/workflows/ci.yml)
+[![crates.io](https://img.shields.io/crates/v/ascii-digit.svg)](https://crates.io/crates/ascii-digit)
+[![docs.rs](https://img.shields.io/docsrs/ascii-digit)](https://docs.rs/ascii-digit)
+[![MSRV](https://img.shields.io/crates/msrv/ascii-digit)](https://crates.io/crates/ascii-digit)
+
 A simple rust crate for identifying ascii digits.
 
 <!-- cargo-rdme start -->
